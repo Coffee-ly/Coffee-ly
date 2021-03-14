@@ -26,10 +26,10 @@ My latest project <b>Loom</b>, is a discord bot made on discord.js-commando and 
 <details open>
   <summary>⚙ <b>Stats</b></summary>
 <a href="https://github.com/coffee-ly">
-<img align="center" alt="Coffee's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=coffee-ly&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" /></a>
+<img align="center" alt="Coffee's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=coffee-ly&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
 
 <a href="https://github.com/coffee-ly">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=coffee-ly&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=coffee-ly&layout=compact&theme=dracula" />
 </a>
 </details>
 

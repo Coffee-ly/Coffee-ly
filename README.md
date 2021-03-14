@@ -9,8 +9,7 @@
 I currently code on discord.js and discord.js-commando.
 I like coding duh, reading, and also history.
 I've been coding for about 1 year by now.
-My latest project <b>Chiaki</b>, is a discord bot made on discord.js-commando and is bassed on the anime called "Danganronpa".
-and.. yeah that's it
+My latest project <b>Loom</b>, is a discord bot made on discord.js-commando and is bassed on the an aesthetic theme, Click <a href="https://dsc.gg/loom">here</a> to invite the bot. And.. yeah that's it
 </p>
 </details>  
 

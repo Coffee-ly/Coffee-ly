@@ -20,7 +20,7 @@ My latest project <b>Loom</b>, is a discord bot made on discord.js-commando and 
     <img src="https://komarev.com/ghpvc/?username=Coffee-ly&style=flat-square&label=Profile%20Views&logo=github" alt="Profile Viewers"/>
   </a>
   <a href="https://discord.com/users/773460713191899156">
-    <img src="https://img.shields.io/badge/Coffee.%233614-%237289da?logo=discord&style=flat-square" alt="Discord" Coffee.#3614"/>
+    <img src="https://img.shields.io/badge/✧ Lunaa ࿐ྂ%233614-%237289da?logo=discord&style=flat-square" alt="Discord" Coffee.#3614"/>
   </a>
 </p>
 

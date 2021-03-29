@@ -1,8 +1,6 @@
 <h1 align="center">Hiya, Im Coffee ☕</h1>
 <h3 align="center">Im a discord bot dev, Im also interested in html and c++. I also code bots using Arduino!</h3>
 
-![Discord](https://discord.c99.nl/widget/theme-2/773460713191899156.png)
-
 <details open>
 <summary>😃 <b>About me</b></summary>
 <p>

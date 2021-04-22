@@ -34,6 +34,12 @@ My latest project <b>Loom</b>, is a discord bot made on discord.js-commando and 
 </details>
 
 <details open>
+  <summary> <b> Spotify </b></summary>
+
+[![Spotify](https://novatorem-theta-green.vercel.app/api/spotify)](https://open.spotify.com/user/0sfbnbgrop2dpexv9cqbgdrn1)
+</details>
+
+<details open>
 <summary>🔧 <b>Current tools im using</b></summary>
 <p>
 
